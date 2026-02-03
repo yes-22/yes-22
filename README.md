@@ -22,6 +22,14 @@ I focus on understanding **structures, logs, and behaviors** rather than surface
 * C
 * Python
 * Java
+## 🛠 Main Tech Stacks
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white)
+![Rocky Linux](https://img.shields.io/badge/Rocky%20Linux-10B981?style=for-the-badge&logo=RockyLinux&logoColor=white)
+
 
 **Environment & Tools**
 
@@ -53,11 +61,4 @@ I focus on understanding **structures, logs, and behaviors** rather than surface
     
 * **2026 Vice President, GRAPE**
   * Inter-university federated hacking club focused on offensive security and collaborative hacking activities
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact)
 
