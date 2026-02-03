@@ -48,7 +48,7 @@ I focus on understanding **structures, logs, and behaviors** rather than surface
 
 ## 🎓 Education & Programs
 
-* **BoB 14th (Best of the Best), Digital Forensics Track**
+* **BoB 14th (Best of the Best), Digital Forensics Track** 
 
   * National-level security training program supported by the Korean government
   * Focused on forensic analysis, incident response, and security research mindset
@@ -57,15 +57,20 @@ I focus on understanding **structures, logs, and behaviors** rather than surface
 
 ## 👥 Community & Leadership
 
-* **2025 President, SISS (Sookmyung Information Security Study)**
-
+* **2025 President, SISS (Sookmyung Information Security Study)** - *(Dec 2024 – Nov 2025)*
   * University-based security society focused on system/web hacking and information security
   * Problem setter for annual hacking camp, organizer of internal conferences and study groups
 
-* **2025 Vice President, WUISP**
+* **2026 Vice President, SISS** - *(Dec 2025 – ing )*
 
+* **2025 Vice President, WUISP** - *(Feb 2025 – JAN 2026 )*
   * Coalition of women’s universities in Seoul
-    
-* **2026 Vice President, GRAPE**
+
+* **2026 Vice President, GRAPE** - *(Feb 2026 – ing )*
   * Inter-university federated hacking club focused on offensive security and collaborative hacking activities
+
+* **Operations Team, Data First** — *(Jan 2025 – Jun 2025)*
+  * Data Analysis Union Club  
+
+* **24th Member, SISS (Sookmyung Information Security Study)** - *(Dec 2023 – Nov 2024)*
 
